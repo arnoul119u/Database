@@ -1,0 +1,2 @@
+DESCRIBE all_tables
+DESCRIBE all_tab_columns
